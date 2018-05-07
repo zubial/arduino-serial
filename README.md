@@ -1,2 +1,8 @@
-# arduino-serial
-Arduino Serial I/O Tester-Configurator
+# Arduino SoftwareSerial I/O Tester-Configurator
+
+# ChangeLogs
+
+## 1.x
+- Initial commit
+
+# Usage
