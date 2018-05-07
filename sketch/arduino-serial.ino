@@ -24,7 +24,7 @@ void setup() {
   // Open console Serial port
   Serial.begin(9600);
   while (!Serial) {
-    ; // Wait for serial port to connect.
+    ; // Wait for connection.
   }
 
   Serial.print("Sketch:   ");   Serial.println(__FILE__);
