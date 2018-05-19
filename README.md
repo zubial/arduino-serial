@@ -5,7 +5,9 @@
 ## 1.x
 - Initial commit
 
-# Usage
+# Wiring
 
 ![Breadbord](documents/HCxx_bb.png)
 ![Breadbord](documents/HCxx_schema.png)
+
+# Usage
