@@ -6,3 +6,6 @@
 - Initial commit
 
 # Usage
+
+![Breadbord](documents/HCxx_bb.png)
+![Breadbord](documents/HCxx_schema.png)
