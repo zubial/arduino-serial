@@ -1,4 +1,4 @@
-# Arduino SoftwareSerial I/O Tester-Configurator
+# Arduino - SoftwareSerial I/O Tester-Configurator
 
 # ChangeLogs
 
